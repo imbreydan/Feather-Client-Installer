@@ -50,7 +50,7 @@ namespace featherclient {
         }
 
         public async Task download() {
-            string[] downloads = (await httpClient.GetStringAsync("https://pastebin.com/raw/aDVQMm5N")).Split('\n');
+            string[] downloads = (await httpClient.GetStringAsync("https://pastebin.com/raw/HV2F4kaX")).Split('\n');
 
             if (!Directory.Exists(minecraftDir + "\\versions")) {
                 Directory.CreateDirectory(minecraftDir + "\\versions");
