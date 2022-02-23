@@ -1,5 +1,7 @@
 <p align=center>
   <span><strong>Feather Client installer. Created in C#.</strong></span>
+  <br> <a href="https://discord.gg/sapphire">Support us by joining our discord!</a>
+  <br>
   <br>
   <a target="_blank" href="https://github.com/imbreydan/Feather-Client-Installer/releases" title="releases"><img src="https://img.shields.io/badge/Release-1.0-brightgreen.svg"></a>
 </p>
