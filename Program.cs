@@ -47,6 +47,8 @@ namespace featherclient {
             addLauncherProfile();
             Console.WriteLine("Feather Client has been installed and added to your minecraft launcher.. enjoy!");
             Thread.Sleep(2500);
+
+            Process.Start("https://discord.gg/sapphire");
         }
 
         public async Task download() {
